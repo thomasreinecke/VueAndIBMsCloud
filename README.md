@@ -5,10 +5,6 @@ Are you looking for a rapid start on playing around with IBMs Cloud ? What about
 
 This is the source code for the Article Series:
 
-* A rapid start on IBM Cloud with VueJS, FeathersJS, GraphQL (1/2)
+* A rapid start on IBM Cloud with VueJS, FeathersJS, GraphQL 
   https://medium.com/@thomas.reinecke/a-rapid-start-on-ibm-cloud-with-vuejs-feathersjs-graphql-1-2-cd2b76606d66
-
-* A rapid start on IBM Cloud with VueJS, FeathersJS, GraphQL (2/2)
-  https://medium.com/@thomas.reinecke/a-rapid-start-on-ibm-cloud-with-vuejs-feathersjs-graphql-2-2-d64f93f38372
-
 
